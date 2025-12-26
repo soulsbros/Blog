@@ -1,0 +1,3 @@
+# Blog
+
+Just some thoughts
