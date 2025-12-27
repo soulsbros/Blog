@@ -51,3 +51,25 @@ $on-laptop:        800px;
         "layout",
         "syntax-highlighting"
 ;
+
+
+// custom stuff
+
+.devsContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  text-align: center;
+}
+
+.devsContainer img {
+  max-width: 200px;
+}
+
+.devsContainer div {
+  margin: 10px;
+}
+
+.name {
+  font-size: x-large;
+}
