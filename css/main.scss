@@ -53,6 +53,13 @@ $on-laptop:        800px;
 ;
 
 
+// fixes
+
+.post-link {
+  display: inline-block !important;
+}
+
+
 // custom stuff
 
 .devsContainer {
@@ -60,6 +67,10 @@ $on-laptop:        800px;
   flex-wrap: wrap;
   justify-content: space-evenly;
   text-align: center;
+}
+
+.card {
+  width: 250px;
 }
 
 .devsContainer img {
